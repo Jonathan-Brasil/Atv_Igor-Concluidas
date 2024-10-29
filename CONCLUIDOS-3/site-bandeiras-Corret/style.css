@@ -1,0 +1,305 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+
+.franca{
+    height: 400px;
+    display: flex;
+}
+
+.franca-1{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+.franca-2{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+}
+
+.franca-3{
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+
+.italia{
+    height: 400px;
+    display: flex;
+}
+
+.italia-1{
+    width: 200px;
+    height: 400px;
+    background-color: green;
+}
+
+.italia-2{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+}
+
+.italia-3{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+.alemanha{
+    height: 600px;
+    display: block;
+}
+
+.alemanha-1{
+    width: 600px;
+    height: 150px;
+    background-color: black;
+}
+
+.alemanha-2{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+}
+
+.alemanha-3{
+    width: 600px;
+    height: 150px;
+    background-color: yellow;
+}
+
+.argentina{
+    height: 600px;
+    display: block;
+}
+
+.argentina-1{
+    width: 600px;
+    height: 150px;
+    background-color: rgb(120,194,255);
+}
+
+.argentina-2{
+    width: 600px;
+    height: 150px;
+    background-color: white;
+    background-image: url(./Argentina.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.argentina-3{
+    width: 600px;
+    height: 150px;
+    background-color: rgb(120,194,255);
+}
+
+.nigeria{
+    height: 400px;
+    display: flex;
+}
+
+.nigeria-1{
+    width: 200px;
+    height: 400px;
+    background-color: seagreen;
+}
+
+.nigeria-2{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+}
+
+.nigeria-3{
+    width: 200px;
+    height: 400px;
+    background-color: seagreen;
+}
+
+.holanda{
+    height: 600px;
+    display: block;
+}
+
+.holanda-1{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+}
+
+.holanda-2{
+    width: 600px;
+    height: 150px;
+    background-color: white;
+
+}
+
+.holanda-3{
+    width: 600px;
+    height: 150px;
+    background-color: blue;
+}
+
+.austria{
+    height: 600px;
+    display: block;
+}
+
+.austria-1{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+}
+
+.austria-2{
+    width: 600px;
+    height: 150px;
+    background-color: white;
+
+}
+
+.austria-3{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+}
+
+.suecia{
+    height: 470px;
+    width: 600px;
+    background-color: rgb(0, 70, 220);
+}
+
+.suecia-1{
+    width: 70px;
+    height: 470px;
+    background-color: rgb(225, 245, 54);
+    position: relative;
+    left: 100px;
+}
+
+.suecia-2{
+    width: 600px;
+    height: 70px;
+    background-color:  rgb(225, 245, 54);
+    position: relative;
+    top: -55%;
+
+}
+
+.dinamarca{
+    height: 470px;
+    width: 600px;
+    background-color: red;
+}
+
+.dinamarca-1{
+    width: 70px;
+    height: 470px;
+    background-color: white;
+    position: relative;
+    left: 100px;
+}
+
+.dinamarca-2{
+    width: 600px;
+    height: 70px;
+    background-color: white;
+    position: relative;
+    top: -55%;
+
+}
+
+.noruega{
+    height: 470px;
+    width: 600px;
+    background-color: red;
+}
+
+.noruega-3{
+    width: 70px;
+    height: 470px;
+    background-color: blue;
+    position: relative;
+    top: -121%;
+    left: 113px;
+}
+
+.noruega-4{
+    width: 600px;
+    height: 70px;
+    background-color: blue;
+    position: relative;
+    top: -173%;
+
+}
+
+.noruega-1{
+    width: 100px;
+    height: 470px;
+    background-color: white;
+    position: relative;
+    left: 100px;
+}
+
+.noruega-2{
+    width: 600px;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    top: -55%;
+
+}
+
+
+.filandia{
+    height: 470px;
+    width: 600px;
+    background-color: white;
+}
+
+.filandia-1{
+    width: 70px;
+    height: 470px;
+    background-color: blue;
+    position: relative;
+    left: 100px;
+}
+
+.filandia-2{
+    width: 600px;
+    height: 70px;
+    background-color: blue;
+    position: relative;
+    top: -55%;
+
+}
+.japao{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    background-color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.japao-1{
+    background: rgb(176-49-63);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    align-self: center;
+    position: relative;
+    left: 200px;
+}
